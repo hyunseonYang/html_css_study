@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+body{
+  line-height: 2;
+  font-size: 75%;
+  background: url(../image/test_image.jpg) orange no-repeat;
+}
